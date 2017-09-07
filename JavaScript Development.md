@@ -55,7 +55,7 @@ This course teaches using the JavaScript / ECMAScript language for application d
 * Block Level Scope [ES2015]
 * Strict Mode
 
-### **Basic JavaScript Types**
+### **JavaScript Basic Types**
 * boolean Types
 * Truthy Falsy Values
 * number Types
@@ -160,7 +160,9 @@ This course teaches using the JavaScript / ECMAScript language for application d
 * Object.prototype
 * Object.hasOwnProperty()
 * Object.getOwnPropertyNames()
+* instanceof operator
 * extends Keyword [ES2015]
+* super Keyword [ES2015]
 * Enhanced Object Literals [ES2015]
 * Object.getOwnPropertyDescriptors() [ES2017]
 
@@ -175,7 +177,7 @@ This course teaches using the JavaScript / ECMAScript language for application d
 * Promise Patterns
 * Promise Limitations
 
-### **Asynchronous JavaScript**
+### **Asynchronous Programming**
 * Callbacks
 * Promises [ES2015]
 * Iterators / next() [ES2015]
