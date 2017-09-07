@@ -209,6 +209,12 @@ This course teaches using the JavaScript / ECMAScript language for web based app
 * Proxies
 * JSONP
 
+### **Other Web Browser JavaScript APIs**
+* Session Storage
+* IndexedDB
+* GeoLocation
+* Web Sockets
+
 ### **Asynchronous JavaScript**
 * Callbacks
 * Promises [ES2015]
@@ -216,13 +222,11 @@ This course teaches using the JavaScript / ECMAScript language for web based app
 * Generators / yield [ES2015]
 * async function [ES2017]
 * Browser Based Web Workers
-* node.js Non-Blocking Asynchronous Design
 * Shared Memory and Atomics [ES2017]
 
 ### **Module Loaders**
 * Loading JavaScript Code
 * Browser script Tag
-* node.js Module Loading
 * Asynchronous Module Definition (AMD)
 * CommonJS
 * RequireJS
