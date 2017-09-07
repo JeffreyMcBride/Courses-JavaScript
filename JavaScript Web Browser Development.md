@@ -1,9 +1,9 @@
-> # **Course Name:  JavaScript Development**
+> # **Course Name:  JavaScript Web Browser Development**
 > ## **Duration:  5 Days**
-> ## **Prerequisites:  Programming Experience**
+> ## **Prerequisites:  HTML, CSS and Programming Experience**
 
 ## **Course Overview**
-This course teaches using the JavaScript / ECMAScript language for application development.  It does not define what type of development, such as Web Browser or node.js, it concentrates on the JavaScript language syntax.
+This course teaches using the JavaScript / ECMAScript language for web based application development.  It covers not only the JavaScript language syntax, but does so in relation to developing applications using HTTP, HTML, CSS, and Web Browsers.  
 
 
 ## **Course Topics**
@@ -82,6 +82,21 @@ This course teaches using the JavaScript / ECMAScript language for application d
 * while and do while Loops
 
 <!-- Day 2 -->
+### **Browser based JavaScript**
+* Evolution of Browser Based JavaScript
+* Important Browser Based JavaScript Libraries
+* Feature Detection
+* Accessing the Browser DOM
+* Locating Nodes in the DOM
+* Using IDs to Locate DOM Elements
+* Using CSS Selectors to Locate DOM Elements
+* Using Libraries to Access the DOM (jQuery)
+* Adding Elements to the DOM
+* Event Handling in the Browser
+* Adding and Removing Event Handlers
+* Event Handling Techniques
+* HTML Forms and JavaScript
+
 ### **Arrays and Other Collections**
 * Array Type
 * Declaring Arrays
@@ -106,6 +121,7 @@ This course teaches using the JavaScript / ECMAScript language for application d
 * Call Stack
 * Arrow Functions [ES2015]
 
+<!-- Day 3 -->
 ### **Objects**
 * JavaScript Object Orientation
 * Object Types
@@ -121,7 +137,6 @@ This course teaches using the JavaScript / ECMAScript language for application d
 * Object.entries() and Object.values() [ES2017]
 * Trailing Commas [ES2017]
 
-<!-- Day 3 -->
 ### **Error Handling**
 * Types of Errors in JavaScript
 * Error Handling as a Communication Technique
@@ -138,6 +153,7 @@ This course teaches using the JavaScript / ECMAScript language for application d
 * apply(), call() and bind() Methods
 * Arrow Functions and this Keyword [ES2015]
 
+<!-- Day 4 -->
 ### **IIFEs, Closures, and Revealing Modules**
 * Namespacing in JavaScript
 * Polluting the Global Namespace
@@ -148,7 +164,6 @@ This course teaches using the JavaScript / ECMAScript language for application d
 * Closures and Encapsulation
 * Revealing Module Pattern
 
-<!-- Day 4 -->
 ### **Prototypical Inheritance**
 * Classical vs Prototypical Inheritance
 * Evolution of Prototypical Inheritance
@@ -175,6 +190,25 @@ This course teaches using the JavaScript / ECMAScript language for application d
 * Promise Patterns
 * Promise Limitations
 
+<!-- Day 5 -->
+### **AJAX, XHR, and RESTful APIs**
+* Asynchronous JavaScript and XML (AJAX)
+* XML HTTP Request (XHR) Browser Object
+* Data Formats
+* JSON Data
+* Making XHR Calls and Handling Results
+* Using XHR Wrappers (jQuery)
+* Web Service Evolution
+* RESTful APIs
+* HTTP Verbs
+* CRUD Operations
+* REST API Specifications (Swagger)
+* OData
+* XHR Cross Site Request Issues
+* CORS
+* Proxies
+* JSONP
+
 ### **Asynchronous JavaScript**
 * Callbacks
 * Promises [ES2015]
@@ -184,32 +218,6 @@ This course teaches using the JavaScript / ECMAScript language for application d
 * Browser Based Web Workers
 * node.js Non-Blocking Asynchronous Design
 * Shared Memory and Atomics [ES2017]
-
-<!-- Day 5 -->
-### **JavaScript Patterns**
-* Module Pattern
-* Revealing Module Pattern
-* Prototype Pattern
-* Decorator Pattern
-* Factory Pattern
-* Facade Pattern
-* Observer Pattern
-* Mediator Pattern
-* Singleton or Immutability Pattern
-
-### **MetaProgramming**
-* Understanding MetaProgramming [ES2015]
-* Symbol Types
-* Uses for Symbols
-* Object.getOwnPropertySymbols()
-* Symbol Properties and Methods
-* Reflect Object
-* Understanding Reflection
-* Reflect Methods
-* Proxy Object
-* Using Proxies
-* Proxy Properties and Methods
-* Tail Call Optimization (TCO)
 
 ### **Module Loaders**
 * Loading JavaScript Code
