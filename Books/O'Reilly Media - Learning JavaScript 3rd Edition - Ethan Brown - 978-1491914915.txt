@@ -1,0 +1,275 @@
+==========================================================================================
+O'Reilly Media
+Learning JavaScript 3rd Edition
+Ethan Brown
+978-1491914915
+March 5, 2016
+https://www.amazon.com/Learning-JavaScript-Essentials-Application-Development/dp/1491914912
+==========================================================================================
+
+------------------------------------------------------------------------------------------
+Chapter 1 Your First Application
+------------------------------------------------------------------------------------------
+Where to Start
+The Tools
+A Comment on Comments
+Getting Started
+The JavaScript Console
+jQuery
+Drawing Graphics Primitive
+Automating Repetitive Tasks
+Handling User Input
+Hello, World
+
+------------------------------------------------------------------------------------------
+Chapter 2 JavaScript Development Tools
+------------------------------------------------------------------------------------------
+Writing ES6 Today
+ES6 Features
+The Transcompilers
+Linting
+
+------------------------------------------------------------------------------------------
+Chapter 3 Literals, Variables, Constants, and Data Types
+------------------------------------------------------------------------------------------
+Variables and Constants
+Variables or Constants: Which to Use?
+Identifier Names
+Literals
+Primitive Types and Objects
+Numbers
+Strings
+Special Characters
+Booleans
+Symbols
+null and undefined
+Objects
+Number, String, and Boolean Objects
+Arrays
+Trailing Commas in Objects and Arrays
+Dates
+Regular Expressions
+Maps and Sets
+Data Type Conversion
+
+------------------------------------------------------------------------------------------
+Chapter 4 Control Flow
+------------------------------------------------------------------------------------------
+A Control Flow Primer
+Control Flow Statements in JavaScript
+Useful Control Flow Patterns
+
+------------------------------------------------------------------------------------------
+Chapter 5 Expressions and Operators
+------------------------------------------------------------------------------------------
+Operators
+Arithmetic Operators
+Operator Precedence
+Comparison Operators
+Comparing Numbers
+String Concatenation
+Logical Operators
+AND, OR, and NOT
+Grouping Operator
+Destructuring Assignment
+Object and Array Operators
+Expressions in Template Strings
+Expressions and Control Flow Patterns
+
+------------------------------------------------------------------------------------------
+Chapter 6 Functions
+------------------------------------------------------------------------------------------
+Return Values
+Calling Versus Referencing
+Function Arguments
+Functions as Properties of Objects
+The this Keyword
+Function Expressions and Anonymous Functions
+Arrow Notation
+call, apply, and bind
+
+------------------------------------------------------------------------------------------
+Chapter 7 Scope
+------------------------------------------------------------------------------------------
+Scope Versus Existence
+Lexical Versus Dynamic Scoping
+Global Scope
+Block Scope
+Variable Masking
+Functions, Closures, and Lexical Scope
+Immediately Invoked Function Expressions
+Function Scope and Hoisting
+Function Hoisting
+The Temporal Dead Zone
+Strict Mode
+
+------------------------------------------------------------------------------------------
+Chapter 8 Arrays and Array Processing
+------------------------------------------------------------------------------------------
+A Review of Arrays
+Array Content Manipulation
+Array Searching
+The Fundamental Array Operations: map and filter
+Array Magic: reduce
+Array Methods and Deleted or Never-Defined Elements
+String Joining
+
+------------------------------------------------------------------------------------------
+Chapter 9 Objects and Object-Oriented Programming
+------------------------------------------------------------------------------------------
+Property Enumeration
+Object-Oriented Programming
+Multiple Inheritance, Mixins, and Interfaces
+
+------------------------------------------------------------------------------------------
+Chapter 10 Maps and Sets
+------------------------------------------------------------------------------------------
+Maps
+Weak Maps
+Sets
+Weak Sets
+Breaking the Object Habit
+
+------------------------------------------------------------------------------------------
+Chapter 11 Exceptions and Error Handling
+------------------------------------------------------------------------------------------
+The Error Object
+Exception Handling with try and catch
+Throwing Errors
+Exception Handling and the Call Stack
+try...catch...finally
+Let Exceptions Be Exceptional
+
+------------------------------------------------------------------------------------------
+Chapter 12 Iterators and Generators
+------------------------------------------------------------------------------------------
+The Iteration Protocol
+Generators
+
+------------------------------------------------------------------------------------------
+Chapter 13 Functions and the Power of Abstract Thinking
+------------------------------------------------------------------------------------------
+Functions as Subroutines
+Functions as Subroutines That Return a Value
+Functions as…Functions
+So What?
+IIFEs and Asynchronous Code
+Function Variables
+Recursion
+
+------------------------------------------------------------------------------------------
+Chapter 14 Asynchronous Programming
+------------------------------------------------------------------------------------------
+The Analogy
+Callbacks
+Promises
+Generators
+
+------------------------------------------------------------------------------------------
+Chapter 15 Date and Time
+------------------------------------------------------------------------------------------
+Dates, Time Zones, Timestamps, and the Unix Epoch
+Constructing Date Objects
+Moment.js
+A Practical Approach to Dates in JavaScript
+Constructing Dates
+Transmitting Dates
+Displaying Dates
+Date Components
+Comparing Dates
+Date Arithmetic
+User-Friendly Relative Dates
+
+------------------------------------------------------------------------------------------
+Chapter 16 Math
+------------------------------------------------------------------------------------------
+Formatting Numbers
+Constants
+Algebraic Functions
+Trigonometric Functions
+Hyperbolic Functions
+
+------------------------------------------------------------------------------------------
+Chapter 17 Regular Expressions
+------------------------------------------------------------------------------------------
+Substring Matching and Replacing
+Constructing Regular Expressions
+Searching with Regular Expressions
+Replacing with Regular Expressions
+Input Consumption
+Alternation
+Matching HTML
+Character Sets
+Named Character Sets
+Repetition
+The Period Metacharacter and Escaping
+Grouping
+Lazy Matches, Greedy Matches
+Backreferences
+Replacing Groups
+Function Replacements
+Anchoring
+Word Boundary Matching
+Lookaheads
+Constructing Regexes Dynamically
+
+------------------------------------------------------------------------------------------
+Chapter 18 JavaScript in the Browser
+------------------------------------------------------------------------------------------
+ES5 or ES6?
+The Document Object Model
+Some Tree Terminology
+DOM “Get” Methods
+Querying DOM Elements
+Manipulating DOM Elements
+Creating New DOM Elements
+Styling Elements
+Data Attributes
+Events
+Ajax
+
+------------------------------------------------------------------------------------------
+Chapter 19 jQuery
+------------------------------------------------------------------------------------------
+The Almighty Dollar (Sign)
+Including jQuery
+Waiting for the DOM to Load
+jQuery-Wrapped DOM Elements
+Manipulating Elements
+Unwrapping jQuery Objects
+Ajax
+
+
+------------------------------------------------------------------------------------------
+Chapter 20 Node
+------------------------------------------------------------------------------------------
+Node Fundamentals
+Modules
+Core Modules, File Modules, and npm Modules
+Customizing Modules with Function Modules
+Filesystem Access
+Process
+Operating System
+Child Processes
+Streams
+Web Servers
+
+------------------------------------------------------------------------------------------
+Chapter 21 Object Property Configuration and Proxies
+------------------------------------------------------------------------------------------
+Accessor Properties: Getters and Setters
+Object Property Attributes
+Protecting Objects: Freezing, Sealing, and Preventing Extension
+Proxies
+
+------------------------------------------------------------------------------------------
+Chapter 22 Additional Resources
+------------------------------------------------------------------------------------------
+Online Documentation
+Periodicals
+Blogs and Tutorials
+Stack Overflow
+Contributing to Open Source Projects
+
+Appendix Reserved Words
+Appendix Operator Precedence

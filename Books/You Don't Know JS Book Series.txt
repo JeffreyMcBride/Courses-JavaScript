@@ -1,0 +1,298 @@
+=================
+You Don't Know JS
+Kyle Simpson
+=================
+
+------------------------
+Up & Going
+978-1491924464
+April 10, 2015	      #5
+------------------------
+
+Into Programming
+	Code
+	Expressions
+	Try It Yourself
+	Operators
+	Values & Types
+	Code Comments
+	Variables
+	Blocks
+	Conditionals
+	Loops
+	Functions
+
+Into JavaScript
+	Values & Types
+	Variables
+	Conditonals
+	Strict Mode
+	Functions as Values
+	this Identifier
+	Prototypes
+	Old & New
+	Non-JavaScript
+
+Into YDKJS
+	Scope & Closures
+	this & Object Prototypes
+	Types & Grammar
+	Async & Performance
+	ES6 & Beyond
+
+
+------------------------
+Scope & Closures
+978-1449335588
+March 24, 2014	      #1
+------------------------
+
+What is Scope?
+	Compiler Theory
+	Understanding Scope
+	Nested Scope
+	Errors
+
+Lexical Scope
+	Lex-time
+	Cheating Lexical
+
+Function Versions Block Scope
+	Scope From Functions
+	Hiding in Plain Scope
+	Functions as Scope
+	Blocks as Scopes
+
+Hoisting
+	Chicken of the Egg?
+	The Compiler Strikes Again
+	Functions First
+
+Scope Closure
+	Enlightment
+	Nitty Gritty
+	Now I Can See
+	Loops and Closure
+	Modules
+
+Appendix
+	Dynamic Scope
+	Polyfilling Block Scope
+	Lexical this
+
+
+------------------------
+this & Object Prototypes
+978-1491904152
+July 27, 2014	      #2
+------------------------
+
+this or That?
+	Why this?
+	Confusions
+	What's this?
+
+this All Makes Sense Now!
+	Call-Site
+	Nothing but Rules
+	Everything in Order
+	Binding Exceptions
+	Lexical this
+
+Objects
+	Syntax
+	Type
+	Contents
+	Iteration
+
+Mixing (Up) "Class" Objects
+	Class Theory
+	Class Mechanics
+	Class Inheritance
+	Mixins
+
+Prototypes
+	[[Prototype]]
+	"Class"
+	(Prototypal) Inheritance
+	Object Links
+
+Behavior Delegation
+	Toward Delegation-Oriented Design
+	Classes Versus Objects
+	Simpler Design
+	Nicer Syntax
+	Introspection
+
+Appendix
+	ES6 Class
+
+
+------------------------
+Types & Grammar
+978-1491904190
+February 14, 2015     #3
+------------------------
+
+Types
+	A Type by Any Other Name...
+	Built-in Types
+	Values as Types
+
+Values
+	Arrays
+	Strings
+	Numbers
+	Special Values
+	Value Versus Reference
+
+Natives
+	Internal [[Class]]
+	Boxing Wrappers
+	Unboxing
+	Natives as Constructors
+
+Coercion
+	Converting Values
+	Abstract Value Operations
+	Explicit Coercion
+	Implicit Coercion
+	Loose Equals Versus Strict Equals
+	Abstract Relational Comparison
+
+Grammar
+	Statements & Expressions
+	Operator Precedence
+	Automatic Semicolons
+	Errors
+	Function Arguments
+	try..finally
+	switch
+
+Appendix
+	Mixed Environment JavaScript
+
+
+------------------------
+Async & Performance
+978-1491904220
+March 9, 2015         #4
+------------------------
+
+Asynchrony: Now & Later
+	A Program in Chunks
+	Event Loop
+	Parallel Threading
+	Concurrency
+	Jobs
+	Statement Ordering
+
+Callbacks
+	Continuations
+	Sequential Brain
+	Trust Issues
+	Trying to Save Callbacks
+
+Promises
+	What Is a Promise?
+	Thenable Duck Typing
+	Promise Trust
+	Chain Flow
+	Error Handling
+	Promise Patterns
+	Promise API Recap
+	Promise Limitations
+
+Generators
+	Breaking Run-to-Completion
+	Generator-ing values
+	Iterating Generators Asynchronously
+	Generators + Promises
+	Generator Delegation
+	Generator Concurrency
+	Thunks
+	Pre-ES6 Generators
+
+Program Performance
+	Web Workers
+	SIMD
+	asm.js
+
+Benchmarking & Tuning
+	Benchmarking
+	Context is King
+	jsPerf.com
+	Writing Good Tests
+	Microperformance
+	Tail Call Optimizations (TCO)
+
+Appendix
+	asynquence Library
+	Advanced Async Patterns
+
+
+------------------------
+ES6 & Beyond
+978-1491904244
+December 27, 2015     #6
+------------------------
+
+ES? Now & Future
+	Versioning
+	Transpiling
+
+Syntax
+	Block-Scoped Declarations
+	Spread/Rest
+	Default Parameter Values
+	Destructuring
+	Object Literal Extensions
+	Template Literals
+	Arrow Functions
+	for..of Loops
+	Regular Expressions
+	Number Literal Extensions
+	Unicode
+	Symbols
+
+Organization
+	Iterators
+	Generators
+	Modules
+	Classes
+
+Async Flow Control
+	Promises
+	Generators + Promises
+
+Collections
+	Typed Arrays
+	Maps
+	Weak Maps
+	Sets
+	WeakSets
+
+API Additions
+	Array
+	Object
+	Math
+	Number
+	String
+
+Meta Programming
+	Function Names
+	Meta Properties
+	Well-Known Symbols
+	Proxies
+	Reflect API
+	Feature Testing
+	Tail Call Optimization (TCO)
+
+Beyond ES6
+	async Function
+	Object.observe(..)
+	Exponentiation Operator
+	Objects Properties and ...
+	Array#includes(..)
+	SIMD
+	WebAssembly (WASM)
