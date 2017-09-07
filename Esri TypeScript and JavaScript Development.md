@@ -1,6 +1,6 @@
-> # **Course Name:  JavaScript and TypeScript Development**
-> ## **Duration:  5 Days**
-> ## **Prerequisites:  Programming Experience**
+> # **Course Name:  Esri TypeScript and JavaScript Development**
+> ## **Duration:  2 Days**
+> ## **Prerequisites:  JavaScript Programming Experience**
 
 ## **Course Overview**
 This course teaches using the JavaScript / ECMAScript language combined with TypeScript for application development.  It does not define what type of development, such as Web Browser or node.js, it concentrates on the JavaScript language syntax and where TypeScript fits into that syntax.
@@ -25,94 +25,54 @@ This course teaches using the JavaScript / ECMAScript language combined with Typ
 * Package Managers
 * Web Browsers and Servers, node.js and other engines
 * Testing and Debugging
-* Task Runners
 * Transpiling
 * TypeScript Configuration files
-* Minification and Bundling
-* Containers
+* Task Runners
 
 ### **JavaScript Comments, Values, Types, and Operators**
-* Single and MultiLine Comments
-* Code and Expressions
 * Dynamic Typing
-* JavaScript Values
 * JavaScript typeof Operator
 * Values have a Type
 * JavaScript Types
-* Dealing with No Values
 * Type Coercion
-* Implicit vs Explicit Coercion
-* JavaScript Math Operators
 * Exponentiation Operator [ES2016]
 
 ### **JavaScript Variables and Scope**
-* var Keyword
 * let and const Keywords [ES2015]
-* JavaScript Assignment Operators
-* Variables are Typeless
-* Variable and Lexical Scope
-* Global Scope
+* Scope Issues
 * Hoisting
 * Block Level Scope [ES2015]
 * Strict Mode
-
-### **JavaScript Basic Types**
-* boolean Types
+* JavaScript Basic Types
 * Truthy Falsy Values
-* number Types
-* Intrinsic Math Object
-* Math Methods
 * Understanding Boxing and UnBoxing
-* String Types
-* Delimiting Strings
 * MultiLine String Delimiters [ES2015]
 * Template Literals [ES2015]
-* String Methods
 
-### **TypeScript Types, Operators, Variables and Scope**
+### **TypeScript Types and Operators**
 * TypeScript Comments
 * Strong Typing with TypeScript
 * Type Shapes
 * Types available in TypeScript
 * TypeScript Operators
 * Type Aliases
+* Inferred Typing
+* Type Compatibility
+* Duplicate Identifiers
+
+### **TypeScript Variables and Scope**
 * Declaring variables in TypeScript vs JavaScript
 * var, let, const keywords
 * Type Annotations
 * Scoping Rules
-* Global Scope
 * Shadowing
-* Inferred Typing
-* Type Compatibility
-* Duplicate Identifiers
-* Boolean Types
-* Number Types
-* String Types
 * Any Types
 * Type Assertion
 * Generics
 
-<!-- Day 2 -->
-### **JavaScript Code Blocks, Conditions, and Loops**
-* Creating a Code Block
-* JavaScript Conditional Operators
-* Coercion and Loose vs Strict Comparison
-* if else Statements
-* and or Logic
-* switch Statements
-* for Loops
-* while and do while Loops
-
-### **TypeScript Code Blocks, Conditions, and Loops**
-* Code Blocks
-* Control of Flow Syntax in TypeScript
-
 ### **JavaScript Arrays and Other Collections**
-* Array Type
 * Declaring Arrays
-* Iterating Across All Array Elements
 * for of Loops [ES2015]
-* Array Methods
 * New Array Methods [ES2015]
 * Typed Arrays [ES2015]
 * Maps and Sets [ES2015]
@@ -122,19 +82,14 @@ This course teaches using the JavaScript / ECMAScript language combined with Typ
 ### **TypeScript Arrays**
 * Array Types
 * Tuple Types
-* Array Spread and Destructuring
 * Generics and Arrays
 
 ### **JavaScript Functions**
-* Declaring Functions
-* Calling Functions
-* Function Parameters and Return Types
+* Function Declarations vs Function Expressions
+* Functions are Types
+* CallBack Functions
 * Default Parameters [ES2015]
 * Parameter Spread Syntax [ES2015]
-* Functions are Types
-* Function Declarations vs Function Expressions
-* CallBack Functions
-* Call Stack
 * Arrow Functions [ES2015]
 
 ### **TypeScript Functions**
@@ -146,18 +101,15 @@ This course teaches using the JavaScript / ECMAScript language combined with Typ
 * never Types
 * Function Overloads
 
-<!-- Day 3 -->
+<!-- Day 2 -->
 ### **JavaScript Classes and Objects**
 * JavaScript Object Orientation
-* Object Types
 * Object Literals
-* Shorthand Notation
 * Constructor Functions
 * class Keyword [ES2015]
 * Properties and Methods
 * for in Loops
 * static Keyword [ES2015]
-* Prototypes
 * Object Spread Destructuring Syntax [ES2015]
 
 ### **TypeScript Interfaces, Classes, and Objects**
@@ -176,19 +128,6 @@ This course teaches using the JavaScript / ECMAScript language combined with Typ
 * Object Spread and Destructuring
 * Decorators
 
-### **JavaScript Error Handling**
-* Types of Errors in JavaScript
-* Error Handling as a Communication Technique
-* try catch Statements
-* Call Stack and Strategic Error Handling
-* Understanding finally Statement
-* throw Statement
-* User Defined Error Objects
-
-### **TypeScript Error Handling**
-* Creating Error Interfaces and Classes
-* throw, try, catch, finally in TypeScript
-
 ### **JavaScript this Keyword**
 * Understanding this Keyword
 * this Depends on Calling Context
@@ -201,12 +140,10 @@ This course teaches using the JavaScript / ECMAScript language combined with Typ
 * noImplicitThis flag
 * this Parameters
 
-<!-- Day 4 -->
 ### **JavaScript IIFEs, Closures, and Revealing Modules**
 * Namespacing in JavaScript
 * Polluting the Global Namespace
 * Immediate Inovoked Function Expression (IIFE)
-* Practical Uses for IIFEs
 * Closures
 * Using Closures to Deal with Scope Issues
 * Closures and Encapsulation
@@ -238,31 +175,3 @@ This course teaches using the JavaScript / ECMAScript language combined with Typ
 * Intersection Types
 * Union Types
 * Type Guards
-
-<!-- Day 5 -->
-### **JavaScript Asynchronous Programming**
-* Callbacks
-* Promises [ES2015]
-* Iterators / next() [ES2015]
-* Generators / yield [ES2015]
-* async function [ES2017]
-
-### **TypeScript Asynchronous Programming**
-* Promises in TypeScript
-* async await Keywords
-* Generators and Iterators in TypeScript
-
-### **JavaScript Module Loaders**
-* Loading JavaScript Code
-* Browser script Tag
-* Asynchronous Module Definition (AMD)
-* CommonJS
-* Webpack
-* Native JavaScript Module Loading [ES2015]
-
-### **TypeScript Modules**
-* Using Modules in TypeScript
-* module Keyword
-* nampespace Keyword
-* export Keyword
-* Dynamic import Expressions

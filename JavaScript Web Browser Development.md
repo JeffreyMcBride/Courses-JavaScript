@@ -104,8 +104,8 @@ This course teaches using the JavaScript / ECMAScript language for web based app
 * for of Loops [ES2015]
 * Array Methods
 * New Array Methods [ES2015]
-* Typed Arrays
-* Maps and Sets
+* Typed Arrays [ES2015]
+* Maps and Sets [ES2015]
 * Array Spread Destructuring Syntax [ES2015]
 * Array.includes() [ES2016]
 
