@@ -1,9 +1,9 @@
 > # **Course Name:  Esri New and Advanced JavaScript Features**
 > ## **Duration:  2 Days**
-> ## **Prerequisites:  JavaScript Experience**
+> ## **Prerequisites:  JavaScript Programming Experience**
 
 ## **Course Overview**
-This course covers new features introduced in ECMAScript versions 2015, 2016, and 2017 plus advanced topics in the JavaScript language for application development.  It does not define what type of development, such as Web Browser or node.js, it concentrates on the JavaScript language syntax.
+This course covers new features introduced in ECMAScript versions 2015, 2016, and 2017 plus advanced topics in the JavaScript language.  It does not define what type of development, such as Web Browser or node.js, it concentrates on the JavaScript language syntax.
 
 
 ## **Course Topics**
